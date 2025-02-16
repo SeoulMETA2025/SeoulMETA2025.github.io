@@ -1,2 +1,2 @@
-# NoelMeta.github.io
+# seoulmeta2025.github.io
 clubwebsite
