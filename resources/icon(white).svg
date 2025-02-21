@@ -1,0 +1,37 @@
+<svg
+        width="1000px"
+        height="1000px"
+        xmlns="http://www.w3.org/2000/svg"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 120 120">
+    <path d="
+    M 60,60
+    m 60,0
+    a 60,60 0 1,0 -120,0
+    a 60,60 0 1,0 120,0" fill="#00000000"/>
+    <path d="M 37,5
+    L 83,5
+    Q 83,28.3 105.2,21.1
+    L 119.4,64.8
+    Q 97.2,72.1 110.9,91
+    L 73.7,118
+    Q 60,99.1 46.3,118
+    L 9.1, 91
+    Q 22.9,72.1 0.6,64.9
+    L 14.8,21.1
+    Q 37,28.3 37,5
+Z
+    M 60,60
+    m 30,0
+    a 30,30 0 1,0 -60,0
+    a 30,30 0 1,0 60,0" fill="#FFFFFF" stroke="#FFFFFF" id="meta-gear-svg1"/>
+    <path d="
+    M 60,60
+    m 30,0
+    a 30,30 0 1,0 -60,0
+    a 30,30 0 1,0 60,0
+    M 60,60
+    m 24,0
+    a 24,24 0 1,0 -48,0
+    a 24,24 0 1,0 48,0" fill="#A7A7AC" stroke="#A7A7AC" stroke-width="0.1" fill-rule="evenodd" id="meta-gear-svg2"/>
+</svg>
