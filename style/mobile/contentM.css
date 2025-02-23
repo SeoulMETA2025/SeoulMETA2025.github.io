@@ -83,3 +83,10 @@
     font-family: 'Do Hyeon', sans-serif;
     font-size: calc(10px + 1vw);
 }
+
+.smallImage {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
