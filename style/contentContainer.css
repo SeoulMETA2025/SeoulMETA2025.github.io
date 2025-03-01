@@ -22,3 +22,9 @@
     background-color: #288ce5;
     color: #FFFFFF;
 }
+
+.noticeableText {
+    font-weight: bold;
+    color: #FF4500; /* Bright orange color */
+    text-decoration: underline;
+}
