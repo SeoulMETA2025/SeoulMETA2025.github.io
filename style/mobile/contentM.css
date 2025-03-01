@@ -85,8 +85,20 @@
 }
 
 .smallImage {
-    width: 70%;
+    width: 50%;
     height: auto;
-    max-width: 70%;
+    max-width: 50%;
+    border-radius: 10px;
+}
+
+/* Specific section margin adjustment */
+.contentContainer.imageLeft .textContainer.contentMargin-b {
+    margin-top: 10%;
+}
+
+.largeVideo {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
     border-radius: 10px;
 }
